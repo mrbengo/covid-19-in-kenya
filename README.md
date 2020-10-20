@@ -1,2 +1,8 @@
-# covid-19-in-kenya
-Predicting the next phase of the COVID-19 Pandemic in Kenya
+# Predicting the next phase of the COVID-19 Pandemic in Kenya
+On 12th March 2020, the first COVID-19 case in Kenya was confirmed. The numbers then grew steadily from the index case to the current 649 confirmed cases as at 10th May 2020. Using predictive modelling, I set out to forecast the next phase of the COVID-19 pandemic in Kenya. I used the daily time series data from Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) and proceeded to apply one of the most commonly used method for time-series forecasting, known as ARIMA to perform the predictions. The results for the next three months’ forecasts indicate that Kenya will experience an exponential growth of the COVID-19 confirmed cases, deaths and recoveries. 
+
+# Objectives
+The main objectives of this study are (1) to implement a robust predictive model that can forecast the spread of COVID-19 in Kenya; (2) to enhance understanding of the evolving COVID-19 outbreak in Kenya and the nature and impact of ongoing containment measures; and (3) to generate recommendations for enhancing COVID-19 containment and response measures at national or community level. 
+
+# Significance of the study
+It has emerged that countries that implemented control measures preemptively have continuously reported fewer cases on average as compared with countries that started control later. With the disease having a clear potential for a long-lasting global pandemic, high fatality rates, and incapacitated health systems; it is of crucial importance to understand the routes and timings of transmission. This study proposes a predictive model that will assist the Kenyan government to forecast the spread of new infections of COVID-19 so as to implement the right measures at the right time.
